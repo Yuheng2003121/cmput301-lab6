@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.ualberta.lab6","l":"City"},{"p":"com.ualberta.lab6","l":"CityList"},{"p":"com.ualberta.lab6","l":"MainActivity"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
